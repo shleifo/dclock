@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">dlClockJ</string>
+
+    <!--  ActionBar strings -->
+    <!-- Describes the purpose of the tab button which which switches the activity to the Alarm page -->
+    <string name="menu_alarm">Alarm</string>
+    <!-- Describes the purpose of the tab button which which switches the activity to the Timer page -->
+    <string name="menu_timer">Timer</string>
+    <!-- Describes the purpose of the tab button which which switches the activity to the Clock page -->
+    <string name="menu_clock">Clock</string>
+    <!-- Describes the purpose of the tab button which which switches the activity to the Stopwatch page -->
+    <string name="menu_stopwatch">Stopwatch</string>
+
+    <string name="no_alarms">No Alarm</string>
+
+</resources>

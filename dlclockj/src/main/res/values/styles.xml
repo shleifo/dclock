@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- 导航栏颜色 -->
+        <item name="android:navigationBarColor" tools:targetApi="21">@color/grey_700</item>
+
+        <!-- 标题栏的颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- 状态栏颜色-->
+        <item name="colorPrimaryDark">@color/grey_700</item>
+
+        <!-- 默认的光标、选中的RadioButton颜色 -->
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- 避免控件顶到状态栏上 -->
+        <item name="android:fitsSystemWindows">true</item>
+
+        <item name="android:windowBackground">@color/grey_800</item>
+    </style>
+
+    <style name="AppTabLayoutText" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="tabTextColor">@color/tab_tint_color</item>
+        <item name="android:textColor">@color/tab_tint_color</item>
+    </style>
+
+</resources>

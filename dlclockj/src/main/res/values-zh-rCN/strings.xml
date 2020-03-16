@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"时钟"</string>
+
+    <!--  ActionBar strings -->
+    <!-- Describes the purpose of the tab button which which switches the activity to the Alarm page -->
+    <string name="menu_alarm">"闹钟"</string>
+    <!-- Describes the purpose of the tab button which which switches the activity to the Timer page -->
+    <string name="menu_timer">"定时器"</string>
+    <!-- Describes the purpose of the tab button which which switches the activity to the Clock page -->
+    <string name="menu_clock">"时钟"</string>
+    <!-- Describes the purpose of the tab button which which switches the activity to the Stopwatch page -->
+    <string name="menu_stopwatch">"秒表"</string>
+    <string name="no_alarms">没有闹钟</string>
+
+</resources>
